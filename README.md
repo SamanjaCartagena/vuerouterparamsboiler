@@ -1,5 +1,12 @@
 # ninja-jobs
+##All routers have been set up programmatically
+```
+routes uses params to go to ids and their destinations
+forward button added
+backward button added
 
+
+```
 ## Project setup
 ```
 npm install
